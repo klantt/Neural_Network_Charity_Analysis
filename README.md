@@ -9,4 +9,4 @@
   - Lastly our variables that were neither features or targets for the dataset is EIN, NAME mainly due to not having an impact on the eventual outcome of our tests. 
  
 ### Summary
-  - At the end of our tests and optimizations Beks and I ended up with a loss of 0.55 and an accuracy of 0.72. I think we did an excellent job at reaching our end goal. We were able top optomize our data set by adding more data to the data set and lastly by removing more features we simply did not need. 
+  - At the end of our tests and optimizations Beks and I ended up with a loss of 0.55 and an accuracy of 0.72. I think we did an excellent job at reaching our end goal. We were able to optomize our data set by adding more data to the data set and lastly by removing more features we simply did not need. 
